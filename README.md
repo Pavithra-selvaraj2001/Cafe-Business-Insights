@@ -2,7 +2,7 @@
 This analysis presents a detailed overview of key metrics in the cafe business, including profitability, discount trends, delivery performance, and order behavior. 
 It highlights top products, high-demand regions, and supports data-driven decisions to improve efficiency and profit.
 
-Project Overview
+# Project Overview
 This project presents a comprehensive dashboard that analyzes various aspects of a cafe business using transactional and shipment data. The dashboard focuses on key business indicators such as Profit, Discounts, Discontinued Products, Freight Costs, and Delivery Performance across multiple countries, product categories, and shipping companies.
 
 # Objectives
